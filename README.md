@@ -1,7 +1,7 @@
 
 # Hello, I'm Abhishek Malviya
 
-## I'm a Student, Competitive Coder, Developer, and Electrical Engineer in the making :).
+## I'm a Student, Competitive Coder, Developer, and Electrical Engineer in the making :)
 
 -   I’m currently studying at MITS Gwalior
 -   I’m currently learning Web Development
