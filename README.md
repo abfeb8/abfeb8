@@ -1,5 +1,5 @@
 
-# Hello, I'm Abhishek Malviaya
+# Hello, I'm Abhishek Malviya
 
 ## I'm a Student, Competitive Coder, Developer, and Electrical Engineer in the making :).
 
