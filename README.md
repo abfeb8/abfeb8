@@ -4,7 +4,7 @@
 ## I'm a Student, Competitive Coder, Developer, and Electrical Engineer in the making :)
 
 -   I’m currently studying at MITS Gwalior
--   I’m currently learning Web Development
+-   Currently learning Web Development
 -   2020 Goals: To gain in-depth knowledge about Programing
 -   Fun fact: I love to read and play football
 
