@@ -29,9 +29,10 @@
 
 ### 📕 My Projects
 
--   [TO-DO][todo]
--   [rgb Gussing Game][rgbgame]
--   [Portfolio][portfolio]
+-   [Fantasy Cricket][FantasyCricket]
+-   [ToDo Web App][todo]
+-   [RGB Gussing Game][rgbgame]
+-   [Sample Portfolio Website][portfolio]
 
 <br />
 
@@ -49,6 +50,7 @@
 [instagram]: https://instagram.com/itsabi_z1
 [linkedin]: https://linkedin.com/in/abfeb8
 [gmail]: mailto:emailabhishekmalviya@gmail.com
-[todo]: toDo/index.html
-[rgbgame]: rgbGuessingGame/structure.html
-[portfolio]: Portfolio/Portfolio.html
+[todo]: https://abfeb8.github.io/projectsRepo/toDo/index.html
+[rgbgame]: https://abfeb8.github.io/projectsRepo/rgbGuessingGame/structure.html
+[portfolio]: https://abfeb8.github.io/projectsRepo/Portfolio/Portfolio.html
+[FantasyCricket]: https://github.com/abfeb8/FantasyCricket
