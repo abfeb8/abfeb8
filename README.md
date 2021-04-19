@@ -30,10 +30,9 @@
 
 ### 📕 My Projects
 
--   [Fantasy Cricket][FantasyCricket]
 -   [ToDo Web App][todo]
 -   [RGB Gussing Game][rgbgame]
--   [Sample Portfolio Website][portfolio]
+-   [Pricing Panel][pricingpanel]
 
 <br />
 
@@ -54,4 +53,5 @@
 [todo]: https://abfeb8.github.io/projectsRepo/toDo/index.html
 [rgbgame]: https://abfeb8.github.io/projectsRepo/rgbGuessingGame/structure.html
 [portfolio]: https://abfeb8.github.io/projectsRepo/Portfolio/Portfolio.html
+[pricingpanel]: https://abfeb8.github.io/projectsRepo/PricingPanel/index.html
 [FantasyCricket]: https://github.com/abfeb8/FantasyCricket
