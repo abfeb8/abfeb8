@@ -5,7 +5,7 @@
 
 -   I’m currently studying at MITS Gwalior
 -   Currently learning Web Development
--   2020 Goals: To gain in-depth knowledge about Programing
+-   2021 Goals: To gain in-depth knowledge about Programing
 -   Fun fact: I love to read and play football
 
 ### Languages and Tools I use:
