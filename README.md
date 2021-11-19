@@ -1,10 +1,10 @@
 
 # Hello, I'm Abhishek Malviya
 
-## I'm a Student, Competitive Coder, Developer, and Electrical Engineer in the making :)
+## I'm a Developer, Competitive Coder and Electrical Engineer!!
 
--   I’m currently studying at MITS Gwalior
--   Currently learning Web Development
+-   I’m currently working for Infosys as DSE
+-   Currently working on Full Stack Development Projects
 -   2021 Goals: To gain in-depth knowledge about Programing
 -   Fun fact: I love to read and play football
 
