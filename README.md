@@ -5,7 +5,7 @@
 
 -   I’m currently working with Infosys as DSE
 -   Working on Full Stack Development Projects
--   2021 Goals: To gain in-depth knowledge about Programing
+-   2022 Goals: To gain in-depth knowledge of Cloud Technologies
 -   Fun fact: I love to read and play football
 
 ### Languages and Tools I use:
