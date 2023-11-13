@@ -27,16 +27,6 @@
 
 ---
 
-### 📕 My Projects
-
--   [ToDo Web App][todo]
--   [RGB Gussing Game][rgbgame]
--   [Pricing Panel][pricingpanel]
-
-<br />
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="AB | Gmail" width="22px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/gmail.png" />][gmail]
