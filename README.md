@@ -1,11 +1,11 @@
 
 # Hello, I'm Abhishek Malviya
 
-## I'm a Developer, Competitive Coder and Electrical Engineer!!
+## I'm a Software Developer and an Electrical Engineer!!
 
--   I’m currently working with Infosys as DSE
+-   I’m currently working with Infosys as a Specialist Programmer
 -   Working on Full Stack Development Projects
--   2022 Goals: To gain in-depth knowledge of Cloud Technologies
+-   2023 Goals: To gain in-depth knowledge of Cloud Technologies and GenAI
 -   Fun fact: I love to read and play football
 
 ### Languages and Tools I use:
