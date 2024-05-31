@@ -5,7 +5,7 @@
 
 -   I’m currently working with Infosys as a Specialist Programmer
 -   Working on Full Stack Development Projects
--   2023 Goals: To gain in-depth knowledge of Cloud Technologies and GenAI
+-   Goals: To gain in-depth knowledge of Cloud Technologies and GenAI
 -   Fun fact: I love to read and play football
 
 ### Languages and Tools I use:
