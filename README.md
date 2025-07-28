@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer and an Electrical Engineer!!
 
--   I’m currently working with Infosys as a Specialist Programmer
+-   Senior Consultant Developer at [Thoughtworks](https://www.thoughtworks.com/en-in).
 -   Working on Full Stack Development Projects
 -   Goals: To gain in-depth knowledge of Cloud Technologies and GenAI
 -   Fun fact: I love to read and play football
