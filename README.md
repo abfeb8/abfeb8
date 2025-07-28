@@ -10,17 +10,15 @@
 ### Languages and Tools I use:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
-<img align="left" alt="Java" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/java.png" /> 
+<img align="left" alt="Java" height="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/java.png" /> 
+<img align="left" width="26px" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
+<img align="left" alt="javascript" width="26px" height="26px" src="https://img.icons8.com/color/48/javascript--v1.png" />
 <img align="left" alt="CPP" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/cpp.png" /> 
-<img align="left" alt="Spring" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/spring.png" /> 
+<img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/spring-logo.png" /> 
+<img align="left" width="26" height="26" src="https://img.icons8.com/fluency-systems-regular/48/nextjs.png" alt="nextjs"/>
 <img align="left" alt="angular" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/angular.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="sql" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/sql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/github.png" />
-<img align="left" alt="visual studio code" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/vscode.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png" />
 <br />
 <br />
 
