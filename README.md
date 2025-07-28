@@ -1,12 +1,11 @@
 
 # Hello, I'm Abhishek Malviya
 
-## I'm a Software Developer and an Electrical Engineer!!
+## Software Developer and an Electrical Engineer!!
 
 -   Senior Consultant Developer at [Thoughtworks](https://www.thoughtworks.com/en-in).
--   Working on Full Stack Development Projects
--   Goals: To gain in-depth knowledge of Cloud Technologies and GenAI
--   Fun fact: I love to read and play football
+-   Working on Enterprise Software & Exploring the world of Open Source..
+
 
 ### Languages and Tools I use:
 
@@ -14,7 +13,7 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/java.png" /> 
 <img align="left" alt="CPP" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/cpp.png" /> 
 <img align="left" alt="Spring" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/spring.png" /> 
-<img align="left" alt="javascript" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/angular.png" />
+<img align="left" alt="angular" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/angular.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 <img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
