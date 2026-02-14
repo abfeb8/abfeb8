@@ -25,6 +25,11 @@
 <br />
 <br />
 
+### OpenSource Contributions
+- [DocsGPT: SharePoint integration with session validation and UI components](https://github.com/abfeb8/DocsGPT/pull/1)
+- [Spectral: Implemented feature Request: Include JsonPath in HTML Format](https://github.com/stoplightio/spectral/pull/2840)
+- [Easy-Fix: API error bug fix](https://github.com/vatsalsinghkv/easy-fix/pull/109)
+
 ---
 
 ### Connect with me:
