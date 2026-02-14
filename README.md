@@ -1,11 +1,15 @@
 
-# Hello, I'm Abhishek Malviya
+# Hello, I'm Abhishek Malviya 👋🏼
 
-## Fullstack Software Developer and an Electrical Engineer!!
-
+### Fullstack Software Developer and an Electrical Engineer!!
 -   Senior Consultant Developer.
 -   Polyglot Programmer, always learning..
 -   Working on Enterprise Software & Exploring the world of Open Source..
+
+### OpenSource Contributions
+- [DocsGPT: SharePoint integration with session validation and UI components](https://github.com/abfeb8/DocsGPT/pull/1)
+- [Spectral: Implemented feature Request: Include JsonPath in HTML Format](https://github.com/stoplightio/spectral/pull/2840)
+- [Easy-Fix: API error bug fix](https://github.com/vatsalsinghkv/easy-fix/pull/109)
 
 
 ### Languages and Tools I use:
@@ -24,11 +28,6 @@
 <img align="left" alt="VSCode" width="26px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
 <br />
 <br />
-
-### OpenSource Contributions
-- [DocsGPT: SharePoint integration with session validation and UI components](https://github.com/abfeb8/DocsGPT/pull/1)
-- [Spectral: Implemented feature Request: Include JsonPath in HTML Format](https://github.com/stoplightio/spectral/pull/2840)
-- [Easy-Fix: API error bug fix](https://github.com/vatsalsinghkv/easy-fix/pull/109)
 
 ---
 
