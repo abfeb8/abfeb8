@@ -26,6 +26,7 @@
 <img align="left" alt="sql" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png" />
 <img align="left" alt="VSCode" width="26px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
+<img align="left" alt="VSCode" width="26px" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
 <br />
 <br />
 
