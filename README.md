@@ -1,10 +1,9 @@
 
 # Hello, I'm Abhishek Malviya 👋🏼
 
-### Fullstack Software Developer and an Electrical Engineer!!
--   Senior Consultant Developer.
--   Polyglot Programmer, always learning..
--   Working on Enterprise Software & Exploring the world of Open Source..
+>Polyglot programer with over 5 years of experience building scalable microservices, distributed systems, enterprise API platforms and AI Agents. 
+>Proficient in modern Cloud & AI technologies including LLMs and AI agents. 
+>Passionate about technical leadership, open-source contributions, and optimising system architecture to deliver high-impact engineering solutions.
 
 ### OpenSource Contributions
 - [DocsGPT: SharePoint integration with session validation and UI components](https://github.com/abfeb8/DocsGPT/pull/1)
@@ -15,18 +14,18 @@
 ### Languages and Tools I use:
 
 <img align="left" alt="Java" height="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/java.png" /> 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
-<img align="left" width="26px" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="Typescript"/>
-<img align="left" alt="Javascript" width="26px" height="26px" src="https://img.icons8.com/color/48/javascript--v1.png" />
-<img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/spring-logo.png" /> 
+<img align="left" alt="Python" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/python.png" /> 
+<img align="left" alt="Typescript" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/typescript.png" />
+<img align="left" alt="Javascript" width="26px" height="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/javascript.png" />
+<img align="left" alt="SpringBoot" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/springboot.png" /> 
 <img align="left" alt="LangChain" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/langchain.png" />
 <img align="left" alt="Pydantic-AI" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/pydantic.png" />
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" /> 
-<img align="left" width="26" height="26" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextjs"/>
+<img align="left" alt="React" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/react.png" /> 
+<img align="left" alt="NextJs" width="26" height="26" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/nextJs.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/sql.png" />
 <img align="left" alt="Claude" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/claude.png" />
-<img align="left" alt="VSCode" width="26px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-<img align="left" alt="AWS" width="26px" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
+<img align="left" alt="VSCode" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/vscode.png" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/aws.png" />
 <br />
 <br />
 
@@ -43,8 +42,5 @@
 [instagram]: https://instagram.com/itsabi_z1
 [linkedin]: https://linkedin.com/in/abfeb8
 [gmail]: mailto:emailabhishekmalviya@gmail.com
-[todo]: https://abfeb8.github.io/projectsRepo/toDo/index.html
-[rgbgame]: https://abfeb8.github.io/projectsRepo/rgbGuessingGame/structure.html
 [portfolio]: https://abfeb8.github.io/projectsRepo/Portfolio/Portfolio.html
-[pricingpanel]: https://abfeb8.github.io/projectsRepo/PricingPanel/index.html
-[FantasyCricket]: https://github.com/abfeb8/FantasyCricket
+
