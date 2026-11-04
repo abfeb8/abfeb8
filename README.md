@@ -16,17 +16,17 @@
 
 <img align="left" alt="Java" height="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/java.png" /> 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
-<img align="left" width="26px" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
-<img align="left" alt="javascript" width="26px" height="26px" src="https://img.icons8.com/color/48/javascript--v1.png" />
+<img align="left" width="26px" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="Typescript"/>
+<img align="left" alt="Javascript" width="26px" height="26px" src="https://img.icons8.com/color/48/javascript--v1.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/spring-logo.png" /> 
-<img align="left" alt="NodeJs" width="26px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" /> 
+<img align="left" alt="LangChain" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/langchain.png" />
+<img align="left" alt="Pydantic-AI" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/pydantic.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" /> 
 <img align="left" width="26" height="26" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextjs"/>
-<img align="left" alt="angular" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/angular.png" />
-<img align="left" alt="sql" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/sql.png" />
+<img align="left" alt="Claude" width="26px" src="https://github.com/abfeb8/abfeb8/blob/master/Resources/claude.png" />
 <img align="left" alt="VSCode" width="26px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-<img align="left" alt="VSCode" width="26px" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
+<img align="left" alt="AWS" width="26px" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
 <br />
 <br />
 
